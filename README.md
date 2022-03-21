@@ -2,7 +2,7 @@
 FT_PRINTF is a 42 Project that aims to mimic libc printf function
 
 ## Mandatory part
-You have to recode the printf() function from libc. <br>
+Need to recode the printf() function from libc. <br>
 The prototype of ft_printf() is:
 ```bash
 int ft_printf(const char *, ...);
